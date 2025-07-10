@@ -1,2 +1,2 @@
 # CV-face_emotions
-Face and Emotion ddetection using CNN 
+Face and Emotion detection using CNN 
